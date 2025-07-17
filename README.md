@@ -1,16 +1,8 @@
-# letters
+Scattegories Game App
 
-A new Flutter project.
+Play against AI in this timed categories game.
+Pick the players, rounds, and time per round
+Answers validated by ChatGPT
 
-## Getting Started
+<img width="367" height="740" alt="image" src="https://github.com/user-attachments/assets/217d40ec-3f1d-4bf8-bc1c-91dabba95ea9" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
